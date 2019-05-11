@@ -1,0 +1,2 @@
+C:\Users\danie\source\repos\MusicPlaylist\MusicPlaylist\obj\Debug\MusicPlaylist.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\MusicPlaylist\MusicPlaylist\obj\Debug\MusicPlaylist.csproj.CoreCompileInputs.cache
